@@ -1,0 +1,126 @@
+﻿Año,Región,Producción (barriles/día),Costo (USD/barril),Exportaciones (barriles/día),Ingresos anuales (millones USD),Profundidad del pozo (m),Tipo de producción,Estatus del pozo
+2000,Región Norte,120000,25.41,58407.0,1112.96,3275,No Convencional,Cerrado
+2000,Región Sur,61000,47.12,45791.0,1049.13,4539,Costa Afuera,Cerrado
+2000,Región Este,88000,20.23,69618.0,649.79,1682,Convencional,En producción
+2000,Región Oeste,143000,42.58,57794.0,2222.46,1537,No Convencional,Exploración
+2000,Costa,121000,32.66,78657.0,1442.43,1764,No Convencional,Exploración
+2001,Región Norte,98000,30.29,51818.0,1083.47,4251,Costa Afuera,Exploración
+2001,Región Sur,171000,64.81,89481.0,4045.12,4950,Costa Afuera,Cerrado
+2001,Región Este,81000,22.37,52463.0,661.37,4425,Costa Afuera,En producción
+2001,Región Oeste,138000,59.9,85408.0,3017.16,4047,Costa Afuera,Mantenimiento
+2001,Costa,147000,30.15,59554.0,1617.7,2307,No Convencional,Cerrado
+2002,Región Norte,76000,35.73,48444.0,991.15,2865,Convencional,Mantenimiento
+2002,Región Sur,110000,33.97,86666.0,1363.9,4387,No Convencional,Cerrado
+2002,Región Este,87000,51.05,46178.0,1621.09,4804,Convencional,En producción
+2002,Región Oeste,52000,43.66,20866.0,828.67,2432,Convencional,Mantenimiento
+2002,Costa,65000,57.54,31475.0,1365.14,2585,Costa Afuera,Cerrado
+2003,Región Norte,166000,54.42,75941.0,3297.31,3161,Convencional,Mantenimiento
+2003,Región Sur,159000,61.29,100951.0,3556.97,4567,Convencional,Cerrado
+2003,Región Este,119000,35.44,93317.0,1539.34,4806,Costa Afuera,Mantenimiento
+2003,Región Oeste,120000,28.44,86032.0,1245.67,2925,No Convencional,Exploración
+2003,Costa,191000,54.99,103691.0,3833.63,4001,No Convencional,Cerrado
+2004,Región Norte,178000,23.38,121063.0,1519.0,3162,No Convencional,En producción
+2004,Región Sur,88000,40.66,45064.0,1306.0,4179,Convencional,Cerrado
+2004,Región Este,157000,55.74,120574.0,3194.18,2176,Convencional,Exploración
+2004,Región Oeste,141000,33.85,96526.0,1742.09,1572,Costa Afuera,Exploración
+2004,Costa,59000,43.25,28444.0,931.39,3724,Costa Afuera,En producción
+2005,Región Norte,91000,20.96,45845.0,696.19,3608,Costa Afuera,Exploración
+2005,Región Sur,175000,43.75,108560.0,2794.53,2854,Costa Afuera,Exploración
+2005,Región Este,75000,32.02,42182.0,876.55,4156,Convencional,Mantenimiento
+2005,Región Oeste,176000,67.72,89824.0,4350.33,3644,Convencional,Mantenimiento
+2005,Costa,98000,25.94,71057.0,927.87,4305,No Convencional,Cerrado
+2006,Región Norte,191000,21.12,99588.0,1472.38,1544,No Convencional,En producción
+2006,Región Sur,152000,30.64,115308.0,1699.91,2417,Convencional,En producción
+2006,Región Este,72000,60.7,33102.0,1595.2,4418,Convencional,Cerrado
+2006,Región Oeste,189000,48.78,95259.0,3365.09,2531,Convencional,Exploración
+2006,Costa,92000,52.79,52343.0,1772.69,2040,No Convencional,Mantenimiento
+2007,Región Norte,173000,47.68,134089.0,3010.75,3504,Convencional,En producción
+2007,Región Sur,149000,31.01,116198.0,1686.48,1566,No Convencional,Exploración
+2007,Región Este,82000,49.77,41656.0,1489.62,3269,Costa Afuera,Cerrado
+2007,Región Oeste,183000,51.46,101330.0,3437.27,4646,No Convencional,Exploración
+2007,Costa,120000,24.59,89187.0,1077.04,3283,No Convencional,Mantenimiento
+2008,Región Norte,96000,23.9,74173.0,837.46,3704,No Convencional,Exploración
+2008,Región Sur,165000,25.12,127535.0,1512.85,1629,No Convencional,Cerrado
+2008,Región Este,76000,69.56,49849.0,1929.59,1997,Convencional,En producción
+2008,Región Oeste,72000,52.04,39641.0,1367.61,4782,No Convencional,En producción
+2008,Costa,192000,46.63,118998.0,3267.83,4115,Convencional,Cerrado
+2009,Región Norte,70000,38.18,37419.0,975.5,3820,No Convencional,En producción
+2009,Región Sur,159000,55.01,98768.0,3192.51,3407,No Convencional,Mantenimiento
+2009,Región Este,99000,21.33,75219.0,770.76,2209,Costa Afuera,Cerrado
+2009,Región Oeste,124000,38.98,58236.0,1764.23,3014,Convencional,Exploración
+2009,Costa,100000,28.75,56458.0,1049.38,4700,No Convencional,En producción
+2010,Región Norte,194000,24.14,116423.0,1709.35,2782,Convencional,Exploración
+2010,Región Sur,64000,57.08,44815.0,1333.39,2947,No Convencional,Cerrado
+2010,Región Este,185000,49.49,135980.0,3341.81,4117,Costa Afuera,En producción
+2010,Región Oeste,187000,69.02,89663.0,4710.96,4034,Convencional,En producción
+2010,Costa,184000,61.24,116509.0,4112.88,3844,Convencional,En producción
+2011,Región Norte,183000,62.68,75273.0,4186.71,4010,No Convencional,En producción
+2011,Región Sur,56000,41.33,27619.0,844.79,3229,Convencional,En producción
+2011,Región Este,105000,23.44,52262.0,898.34,4787,No Convencional,En producción
+2011,Región Oeste,102000,56.45,81180.0,2101.63,1998,Costa Afuera,En producción
+2011,Costa,157000,22.07,85822.0,1264.72,3312,No Convencional,En producción
+2012,Región Norte,167000,56.24,129361.0,3428.11,2811,No Convencional,En producción
+2012,Región Sur,137000,55.13,104105.0,2756.78,4251,Costa Afuera,Mantenimiento
+2012,Región Este,198000,21.53,143321.0,1555.97,4466,No Convencional,Mantenimiento
+2012,Región Oeste,95000,66.97,51836.0,2322.18,3013,Costa Afuera,Cerrado
+2012,Costa,137000,47.22,97232.0,2361.24,2678,No Convencional,Cerrado
+2013,Región Norte,152000,35.82,72465.0,1987.29,3583,Convencional,Exploración
+2013,Región Sur,173000,29.39,71348.0,1855.83,3697,No Convencional,Cerrado
+2013,Región Este,63000,63.92,41704.0,1469.84,1555,Costa Afuera,Cerrado
+2013,Región Oeste,95000,63.38,46805.0,2197.7,2572,Convencional,Cerrado
+2013,Costa,62000,45.87,31151.0,1038.04,4809,Costa Afuera,Cerrado
+2014,Región Norte,84000,52.88,40501.0,1621.3,4290,Costa Afuera,Cerrado
+2014,Región Sur,166000,41.83,67820.0,2534.48,4512,Convencional,Mantenimiento
+2014,Región Este,153000,28.71,79151.0,1603.31,3922,No Convencional,En producción
+2014,Región Oeste,188000,24.58,117617.0,1686.68,2600,Convencional,Mantenimiento
+2014,Costa,148000,67.29,102717.0,3635.01,4078,Convencional,Mantenimiento
+2015,Región Norte,115000,20.35,70755.0,854.19,3196,Costa Afuera,Cerrado
+2015,Región Sur,79000,56.38,46102.0,1625.72,4433,No Convencional,En producción
+2015,Región Este,172000,49.24,71821.0,3091.29,2437,No Convencional,Mantenimiento
+2015,Región Oeste,166000,59.27,93672.0,3591.17,2494,Convencional,Mantenimiento
+2015,Costa,119000,45.57,73245.0,1979.33,4465,Convencional,Mantenimiento
+2016,Región Norte,71000,55.87,39097.0,1447.87,4120,No Convencional,Cerrado
+2016,Región Sur,174000,58.09,92515.0,3689.3,2780,Costa Afuera,En producción
+2016,Región Este,145000,58.16,112010.0,3078.12,3361,Convencional,Mantenimiento
+2016,Región Oeste,60000,67.75,31315.0,1483.72,4083,Convencional,Mantenimiento
+2016,Costa,65000,68.61,44914.0,1627.77,3395,Costa Afuera,Exploración
+2017,Región Norte,78000,39.78,34181.0,1132.54,2440,Costa Afuera,Cerrado
+2017,Región Sur,105000,49.6,45320.0,1900.92,4406,Costa Afuera,En producción
+2017,Región Este,99000,42.94,49902.0,1551.64,3230,No Convencional,Cerrado
+2017,Región Oeste,87000,31.93,46897.0,1013.94,2553,Costa Afuera,En producción
+2017,Costa,166000,53.78,95468.0,3258.53,3639,No Convencional,Exploración
+2018,Región Norte,168000,49.02,127879.0,3005.91,3561,Convencional,En producción
+2018,Región Sur,192000,46.12,138963.0,3232.09,1866,Convencional,En producción
+2018,Región Este,123000,52.79,83331.0,2370.01,3012,No Convencional,Exploración
+2018,Región Oeste,137000,65.94,73247.0,3297.33,2478,Costa Afuera,Cerrado
+2018,Costa,165000,58.26,85118.0,3508.71,3213,Convencional,En producción
+2019,Región Norte,142000,67.73,68837.0,3510.45,2417,Costa Afuera,Mantenimiento
+2019,Región Sur,154000,37.72,75629.0,2120.24,3456,Costa Afuera,Mantenimiento
+2019,Región Este,91000,69.94,71887.0,2323.06,4175,No Convencional,Mantenimiento
+2019,Región Oeste,85000,23.67,53847.0,734.36,3449,Convencional,Cerrado
+2019,Costa,92000,34.19,36964.0,1148.1,2406,Costa Afuera,Exploración
+2020,Región Norte,126000,46.83,54091.0,2153.71,1748,Costa Afuera,Exploración
+2020,Región Sur,181000,21.63,83064.0,1428.99,4400,Convencional,En producción
+2020,Región Este,124000,58.68,92589.0,2655.86,3619,Convencional,Exploración
+2020,Región Oeste,112000,28.16,71666.0,1151.18,3489,Costa Afuera,Mantenimiento
+2020,Costa,175000,34.41,124518.0,2197.94,2003,No Convencional,Exploración
+2021,Región Norte,113000,42.65,72959.0,1759.1,3435,Costa Afuera,Mantenimiento
+2021,Región Sur,126000,38.89,98578.0,1788.55,3886,Costa Afuera,En producción
+2021,Región Este,135000,53.48,99631.0,2635.23,3133,Costa Afuera,Mantenimiento
+2021,Región Oeste,137000,29.29,60649.0,1464.65,2397,No Convencional,Cerrado
+2021,Costa,59000,65.54,36780.0,1411.4,3500,Costa Afuera,Exploración
+2022,Región Norte,199000,65.4,135880.0,4750.33,4870,Convencional,Cerrado
+2022,Región Sur,81000,31.96,53349.0,944.9,2782,Costa Afuera,Cerrado
+2022,Región Este,82000,28.88,38218.0,864.38,2321,No Convencional,Mantenimiento
+2022,Región Oeste,171000,68.7,111391.0,4287.91,3001,Costa Afuera,En producción
+2022,Costa,172000,29.42,107717.0,1846.99,3672,Convencional,Exploración
+2023,Región Norte,168000,48.4,68205.0,2967.89,4774,Convencional,En producción
+2023,Región Sur,145000,45.28,95017.0,2396.44,2904,Convencional,En producción
+2023,Región Este,50000,57.37,37094.0,1047.0,2567,No Convencional,En producción
+2023,Región Oeste,85000,39.66,53688.0,1230.45,3700,Convencional,En producción
+2023,Costa,178000,30.57,114976.0,1986.13,2402,Costa Afuera,Cerrado
+2024,Región Norte,90000,21.89,44956.0,719.09,3736,Convencional,Exploración
+2024,Región Sur,162000,65.29,110771.0,3860.6,4017,No Convencional,En producción
+2024,Región Este,172000,54.49,100116.0,3420.88,4126,Costa Afuera,En producción
+2024,Región Oeste,85000,20.43,35957.0,633.84,3343,No Convencional,En producción
+2024,Costa,167000,29.35,90090.0,1789.03,2574,No Convencional,Exploración
